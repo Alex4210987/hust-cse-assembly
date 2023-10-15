@@ -1,0 +1,6 @@
+# .VSCODE
+.vscode/*
+#.idea
+.idea/*
+#excutables
+*.exe
