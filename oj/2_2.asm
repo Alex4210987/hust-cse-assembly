@@ -63,15 +63,10 @@ SumBetween10And20:
 PrintPositive:
     mov ah,02h
     int 21h
-    jmp exit
-
-exit:
-    mov ah, 4ch ; DOS的退出服务号
-    int 21H     ; 调用DOS的退出服务
+    .exit
 
 ;;//TEMPLATE END
-mov ah, 4ch ; DOS的退出服务号
-int 21H     ; 调用DOS的退出服务
+
 ;;//APPEND BEGIN
 end start
 ;;//APPEND END
