@@ -11,3 +11,13 @@ chatgpt & mermaid could be used 2 write report
 only 4 reference
 
 not responsible 4 any consequences caused by using this repo 
+
+**the following content is included in this repo:**
+
+- the oj labs 1-4
+
+- the homeworks (source code & pdf)
+
+- lab report and its template
+ 
+- source code for exam paper
