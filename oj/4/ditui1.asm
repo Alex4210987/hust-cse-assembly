@@ -10,7 +10,6 @@ ditui1:
     push ecx
     push edx
 
-
     ; 设置 F(0) 和 F(1)
     mov ebx, 0
     mov ecx, 0

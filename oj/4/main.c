@@ -14,8 +14,7 @@ int main() {
     return 0;
 }
 // compile with:
-// nasm -f elf32 -g -o ditui1.o ditui1.asm
-// gcc -g -m32 -o fib main.c ditui1.o
+// nasm -f elf32 -g -o ditui1.o ditui1.asm;gcc -g -m32 -o fib main.c ditui1.o
 
 // run with:
 // ./fib
